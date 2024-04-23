@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "management.metrics.prometheus.metrics.export.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.metrics.prometheus.metrics.export.enabled'"
+  },
+  {
+    "name": "management.metrics.prometheus.metrics.export.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.metrics.prometheus.metrics.export.enabled'"
+  }
+]}
